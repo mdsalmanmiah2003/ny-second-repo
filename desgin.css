@@ -1,0 +1,13 @@
+h2{
+    text-align: center;
+}
+#a{
+    border: 10px solid red;
+    padding: 10px;
+    border-radius: 15px; background-color: coral;
+}
+p{
+    text-align: justify;
+    color: aquamarine;
+    font-size: 30px;
+}
